@@ -1,0 +1,29 @@
+* {
+    background-color: rgb(113, 236, 140);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#centrado {
+    text-align: center;
+}
+
+input{
+    background-color: aliceblue;
+    font-size: small;
+    font-weight: bold;
+}
+
+#btn {
+    text-align: center;
+    font-size: 10px;
+}
+
+table {
+    width: 100%;
+    height: 100%;
+    padding:30px;
+}
+
+#c1 {
+    text-align: right;
+}
