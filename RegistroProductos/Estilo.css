@@ -1,0 +1,67 @@
+*{
+    background-color: rgb(235, 169, 107);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+body {
+    padding: 50px;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+img{ 
+    margin: auto; 
+    display: block; 
+} 
+
+#a{
+    text-align: right;
+    font-weight: bold;
+    padding: 5px;
+}
+
+#btn{
+    text-align: center;
+}
+
+td { 
+    border: solid 1px #006699; 
+    border-top: #006699; 
+    border-right: #006699; 
+    border-left: #006699; 
+    border-bottom: #006699;
+}
+
+th {
+    border: 1px solid black;
+}
+
+table { 
+   background-color: #b9c9fe;
+   margin: auto;
+} 
+
+#resaltado{ 
+    font-family: 'trebuchet MS' ; 
+    font-size: 22px ; 
+} 
+
+#derecha{ 
+    text-align: right; 
+}
+
+#totales{ 
+ font-family: 'trebuchet MS' ; 
+ font-size: 22px ; 
+ text-align: right; 
+}
+
+#centrado {
+    text-align: center;
+}
+
+input{
+    background-color: aliceblue;
+    font-size: small;
+    font-weight: bold;
+}
